@@ -74,6 +74,6 @@ python main.py
 Notes
 Ensure the context.ckks file is present, or it will be created.
 
-The admin password is flmini.
+The admin password is **flmini.**
 
 Feel free to copy this and use it for your project! Let me know if you need any further adjustments or additional details. 😊
